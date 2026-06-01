@@ -37,7 +37,7 @@ pip install pyclean
 Or from source:
 
 ```bash
-git clone https://github.com/<your>/pyclean.git
+git clone https://github.com/farhan-codez/pyclean.git
 cd pyclean
 pip install -e .
 ```
